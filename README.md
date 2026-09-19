@@ -1,5 +1,6 @@
 # Painkiller: Overdose VR
 _Painkiller: Overdose VR_ is an enhanced version of the original _Painkiller VR_ mod that allows you to play _Painkiller: Overdose_ in VR.
+![Постер](https://github.com/STRParagor/painkiller-overdose-vr/blob/main/Poster.webp)
 
 # Requirements
 This modification is intended exclusively for _Painkiller: Overdose_ and is not compatible with other modifications.
@@ -23,9 +24,10 @@ Alexey "Fluorescent Hallucinogen" Rodionov for releasing the VR mod for Painkill
 The mod was taken and adapted from this link: https://github.com/FluorescentHallucinogen/painkiller-vr-mod. The VR mod version is 0.1.9.
 
 # Social Networks:
-1) Painkiller Club Discord: https://discord.gg/cQXyuZEkHC
-2) Painkiller Club VK: https://vk.ru/painkillerclub
-3) STR_Paragor's Content Development: https://vk.ru/str_paragor
-4) Painkiller Russian Community: https://www.moddb.com/company/painkiller-russian-community
+1) Release on ModDB: https://www.moddb.com/mods/painkiller-overdose-vr
+2) Painkiller Club Discord: https://discord.gg/cQXyuZEkHC
+3) Painkiller Club VK: https://vk.ru/painkillerclub
+4) STR_Paragor's Content Development: https://vk.ru/str_paragor
+5) Painkiller Russian Community: https://www.moddb.com/company/painkiller-russian-community
 
 # Enjoy the game!
