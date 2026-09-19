@@ -1,3 +1,5 @@
+_*Created by STR_Paragor and Painkiller Russian Community*_
+
 # Painkiller: Overdose VR
 _Painkiller: Overdose VR_ is an enhanced version of the original _Painkiller VR_ mod that allows you to play _Painkiller: Overdose_ in VR.
 ![Постер](https://github.com/STRParagor/painkiller-overdose-vr/blob/main/Poster.webp)
